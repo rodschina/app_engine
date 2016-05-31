@@ -4,7 +4,7 @@ var DeepstreamServer = require( 'deepstream.io' ),
 // Optionally you can specify some settings, a full list of which
 // can be found here //deepstream.io/docs/deepstream.html
 server.set( 'host', 'localhost' );
-server.set( 'port', 6020 );
+server.set( 'port',  );
 
 // start the server
 server.start();
