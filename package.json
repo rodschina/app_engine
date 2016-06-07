@@ -15,5 +15,17 @@
   },
   "dependencies": {
     "deepstream.io": "^0.9.0"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodschina/app_engine"
+  },
+  "bugs": {
+    "url": "https://github.com/rodschina/app_engine/issues"
+  },
+  "homepage": "https://github.com/rodschina/app_engine#readme",
+  "keywords": [
+    "deepstream.io"
+  ]
 }
